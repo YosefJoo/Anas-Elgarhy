@@ -19,7 +19,7 @@ print("Hi there!")
     <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/YosefJoo/YosefJoo/github-contribution-snake-output/github-contribution-grid-snake.svg" />
 </p>
 <!-- My quote -->
-<p align="center"> &quot;.................!&quot; </p>
+<p align="center"> &quot;I Still love U &quot; </p>
 
 ### My Skills and Interests:
 ![my distro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -65,14 +65,14 @@ print("Hi there!")
 
 <h3 align="center"> 💻 Workspace Specs </h3>
 <p align="center">
-    <img alt="MacOs with Arch Linux" src="https://img.shields.io/badge/Arch-Lenovo_legion_y540-0078D6?style=for-the-badge&logo=Arch-linux&logoColor=white">
-    <img alt="Intel Core i5 " src="https://img.shields.io/badge/Intel-Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    <img alt="16GB RAM" src="https://img.shields.io/badge/RAM-16GB-121003?style=for-the-badge&logo=ram&logoColor=white">
+    <img alt="MacOs with Arch Linux" src="https://img.shields.io/badge/Arch-MacOs-2015?style=for-the-badge&logo=Arch-linux&logoColor=white">
+    <img alt="Intel Core i5 " src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+    <img alt="16GB RAM" src="https://img.shields.io/badge/RAM-16GB?style=for-the-badge&logo=ram&logoColor=white">
 </p>
 </details>
 
 <!-- Social media links -->
 ### Connect with me:
-[![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@anas-elgarhy")](https://www.linkedin.com/in/yosef-mahmoud-2127a1221)
-[![matrix: @anas-elgarhy:matrix.org](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/matrix.svg "@anas-elgarhy:matrix.org")](https://matrix.to/#/@yosef_0x:matrix.org)
+[![My linkedin profile](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/linkedin.svg "@yosef-mahmoud")](https://www.linkedin.com/in/yosef-mahmoud-2127a1221)
+[![matrix: @anas-elgarhy:matrix.org](https://raw.githubusercontent.com/anas-elgarhy/cool-badges/master/svg/social/matrix.svg "@yosef_0x:matrix.org")](https://matrix.to/#/@yosef_0x:matrix.org)
 
